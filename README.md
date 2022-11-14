@@ -27,4 +27,10 @@ For deploying the website run the following code in a terminal.
 streamlit run app.py
 ```
 
+You can also check out the link below, however connection issues may happen. If so use the option above.
+
+```
+https://valelopezch-coding-allstars-tech-test-app-z49uas.streamlit.app/
+```
+
  
