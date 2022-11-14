@@ -18,4 +18,13 @@ pip install beautifulsoup4
 ```
 pip install requests
 ```
+
+### Deployment 📦
+
+For deploying the website run the following code in a terminal.
+
+```
+streamlit run app.py
+```
+
  
