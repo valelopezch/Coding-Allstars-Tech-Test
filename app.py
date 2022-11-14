@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_autorefresh import st_autorefresh
 from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
 from selenium import webdriver
